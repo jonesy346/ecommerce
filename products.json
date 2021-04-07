@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "stethoscope",
+        "category": "medical",
+        "price": 31.95,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "otoscope",
+        "category": "medical",
+        "price": 259.68,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "blood pressure monitor",
+        "category": "medical",
+        "price": 29.95,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "thermometer",
+        "category": "medical",
+        "price": 10.69,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "eye chart",
+        "category": "medical",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "scale",
+        "category": "medical",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "resuscitator",
+        "category": "medical",
+        "price": 34.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "elastic bandages",
+        "category": "medical",
+        "price": 35.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "scalpel",
+        "category": "surgical",
+        "price": 1.95,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "suture pad",
+        "category": "surgical",
+        "price": 14.95,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "suture",
+        "category": "surgical",
+        "price": 19.95,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "forceps",
+        "category": "surgical",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "suture scissors",
+        "category": "surgical",
+        "price": 5.98,
+        "image": { "fields": { "file": { "url": "./images/product-13.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "needle holder",
+        "category": "surgical",
+        "price": 29.99,
+        "image": { "fields": { "file": { "url": "./images/product-14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "sweatshirt",
+        "category": "premed",
+        "price": 35.99,
+        "image": { "fields": { "file": { "url": "./images/product-15.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "candle",
+        "category": "premed",
+        "price": 6.99,
+        "image": { "fields": { "file": { "url": "./images/product-16.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "mug",
+        "category": "premed",
+        "price": 5.95,
+        "image": { "fields": { "file": { "url": "./images/product-17.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "t-Shirt",
+        "category": "premed",
+        "price": 9.95,
+        "image": { "fields": { "file": { "url": "./images/product-18.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "lab coat",
+        "category": "premed",
+        "price": 24.99,
+        "image": { "fields": { "file": { "url": "./images/product-19.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "Study Books",
+        "category": "premed",
+        "price": 34.95,
+        "image": { "fields": { "file": { "url": "./images/product-20.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "stuffed animal",
+        "category": "cornell",
+        "price": 7.99,
+        "image": { "fields": { "file": { "url": "./images/product-21.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "title": "snowglobe",
+        "category": "cornell",
+        "price": 34.99,
+        "image": { "fields": { "file": { "url": "./images/product-22.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "23" },
+      "fields": {
+        "title": "flag",
+        "category": "cornell",
+        "price": 14.99,
+        "image": { "fields": { "file": { "url": "./images/product-23.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "24" },
+      "fields": {
+        "title": "pen",
+        "category": "cornell",
+        "price": 4.95,
+        "image": { "fields": { "file": { "url": "./images/product-24.jpg" } } }
+      }
+    }
+  ]
+}
