@@ -33,7 +33,7 @@ export default class UI {
         const category = event.target.dataset.filter;
 
         if (category === "all") {
-            this.displayProducts(productList);
+            this.displayProducts(productList, storage);
             return;
         }
 
@@ -57,6 +57,7 @@ export default class UI {
     }
 
     getBagButtons(storage) {
+        console.log(storage);
         const buttons = [...document.querySelectorAll(".bag-btn")];
         buttonsDOM = buttons;
         buttons.forEach(button => {

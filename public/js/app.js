@@ -1,9 +1,3 @@
-// https://www.youtube.com/watch?v=023Psne_-_4&t=591s
-// more notes: change cart-overlay so that clicking outside of cart closes the cart
-// maybe add contact info in navbar? nah just add margin right to the cart button
-// edit banner title to make it more flashy
-// publish on heroku
-
 import Products from "../utils/products.js";
 import UI from "../utils/ui.js";
 import Storage from "../utils/storage.js";
@@ -32,33 +26,7 @@ window.onclick = function(event) {
     }
 }
 
-// const images = document.querySelectorAll(".slideshowImg");
-// const slideshowContainer = document.querySelector(".slideshow-container");
-
-
-// const imageUrls = ['url("/images/slideshow-1.jpg")', 'url("/images/slideshow-2.jpg")', 'url("/images/slideshow-3.jpg")'];
-
-// Slideshow code
-// const showSlides = () => {
-//     let i;
-//     const slides = document.getElementsByClassName("mySlides");
-
-//     for (i = 0; i < slides.length; i++) {
-//         slides[i].style.display = "none";
-//     }
-
-//     slideIndex++;
-//     if (slideIndex > slides.length) {slideIndex = 1}
-//     slideshowContainer.style.backgroundImage = `${imageUrls[slideIndex-1]}`;
-//     // slides[slideIndex-1].style.display = "block";
-//     setTimeout(showSlides, 2000); // Change image every 2 seconds
-// }
-
-// let slideIndex = 0;
-// showSlides();
-
-
-
+// Upon document loading, display the products and add cart functionality
 document.addEventListener("DOMContentLoaded", () => {
     const ui = new UI();
     const products = new Products();
