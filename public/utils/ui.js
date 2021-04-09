@@ -57,7 +57,6 @@ export default class UI {
     }
 
     getBagButtons(storage) {
-        console.log(storage);
         const buttons = [...document.querySelectorAll(".bag-btn")];
         buttonsDOM = buttons;
         buttons.forEach(button => {

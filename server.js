@@ -31,7 +31,7 @@ app.get('/products.json', (req, res) => {
         }
     });
 });
-  
+
 app.post('/purchase', (req, res) => {
     let tempTotal = 0;
     req.body.cart.map(item => {
