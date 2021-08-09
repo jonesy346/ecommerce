@@ -38,7 +38,7 @@ Product List
 
 Shopping Cart
 * Quantity of a particular item in shopping cart can be increased or decreased by selecting the up or down arrows, respectively. Total shopping cart price will automatically adjust.
-* Items can be removed by clicking the 1) "remove" button under each item or the 2) trash can icon that appears when there is only 1 quantity of a particular item. 
+* Items can be removed by clicking 1) the "remove" button under each item or 2) the trash can icon that appears when there is only 1 quantity of a particular item. 
 * Clicking the "Clear Cart" button will remove all items from the cart and adjust the total shopping cart price accordingly. 
 * Clicking the "Checkout" button will take the user to a Stripe checkout interface, where credit card information can be entered. 
   * When checking out, products and their prices are pulled from a products.json file to enhance security and prevent users from modifying the prices on the front-end.   
