@@ -2,7 +2,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -11,11 +10,6 @@
 
 ## General info
 This project is an ecommerce store application designed with VanillaJS and Stripe. Users can navigate the product list at the bottom of the page, add items to or remove items from a shopping cart, and checkout using the Stripe functionality. Cart items are stored in session storage to prevent users from adding the same item to a cart twice. 
-
-## Screenshots
-![image](https://user-images.githubusercontent.com/73217609/116842352-26883380-ab91-11eb-96e1-0b8d4536965e.png)
-
-![image](https://user-images.githubusercontent.com/73217609/116842449-75ce6400-ab91-11eb-89ce-d92aea234590.png)
 
 ## Technologies
 This project is created with:
