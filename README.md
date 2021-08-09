@@ -9,7 +9,7 @@
 * [Inspiration](#inspiration)
 
 ## General info
-This project is an ecommerce store application designed with VanillaJS and Stripe. Users can navigate the product list at the bottom of the page, add items to or remove items from a shopping cart, and checkout using the Stripe Checkout functionality. 
+This project is an ecommerce store application designed with VanillaJS and Stripe. Users can navigate the product list at the bottom of the page, add items to or remove items from a shopping cart, and checkout using the Stripe Checkout API. 
 
 *When checking out, use the credit card number* 4242 4242 4242 4242 *along with any three digits for the CVC, any future date for the expiration date, and any (valid or invalid) email address.*
 
