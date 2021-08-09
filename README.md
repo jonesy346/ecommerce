@@ -1,4 +1,4 @@
-# Ecommerce
+# Cornell Surgical Society
 
 ## Table of contents
 * [General info](#general-info)
