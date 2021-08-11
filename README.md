@@ -6,7 +6,7 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
+* [Acknowledgments](#acknowledgments)
 
 ## General info
 This project is an ecommerce store application designed with VanillaJS and Stripe. Users can navigate the product list at the bottom of the page, add items to or remove items from a shopping cart, and checkout using the Stripe Checkout API. 
@@ -43,7 +43,7 @@ Shopping Cart
 ## Status
 Finished.
 
-## Inspiration
+## Acknowledgments
 * Inspiration for store theme comes from *Cornell Surgical Society* at Cornell University, a premed organization I was an active member of. 
 * Direct inspiration for project comes from YouTuber *freeCodeCamp.org*'s tutorial project
   * *E-Commerce JavaScript Tutorial - Shopping Cart from Scratch*; https://www.youtube.com/watch?v=023Psne_-_4  
