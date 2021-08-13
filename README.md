@@ -45,5 +45,6 @@ Finished.
 
 ## Acknowledgments
 * Inspiration for store theme comes from *Cornell Surgical Society* at Cornell University, a premed organization I was an active member of. 
-* Direct inspiration for project comes from YouTuber *freeCodeCamp.org*'s tutorial project
+* Direct inspiration for project comes from YouTuber *freeCodeCamp.org*'s tutorial projects
   * *E-Commerce JavaScript Tutorial - Shopping Cart from Scratch*; https://www.youtube.com/watch?v=023Psne_-_4  
+  * *JavaScript Project Tutorial: Shopping Cart*; https://www.youtube.com/watch?v=q_TZhCWbS3I
