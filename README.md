@@ -48,3 +48,5 @@ Finished.
 * Direct inspiration for project comes from YouTuber *freeCodeCamp.org*'s tutorial projects
   * *E-Commerce JavaScript Tutorial - Shopping Cart from Scratch*; https://www.youtube.com/watch?v=023Psne_-_4  
   * *JavaScript Project Tutorial: Shopping Cart*; https://www.youtube.com/watch?v=q_TZhCWbS3I
+* Inspiration for product list render animation comes from YouTuber *Fireship*'s video
+  * *The Joy of CSS Grid - Build 3 Beautifully Simple Responsive Layouts*; https://www.youtube.com/watch?v=705XCEruZFs
