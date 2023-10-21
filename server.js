@@ -8,7 +8,7 @@ const stripePublicKey = process.env.STRIPE_PUBLIC_KEY;
 const express = require('express');
 const app = express();
 const fs = require('fs');
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 const stripe = require('stripe')(stripeSecretKey);
 
 app.set('view engine', 'ejs');
