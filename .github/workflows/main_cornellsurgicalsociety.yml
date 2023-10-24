@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'cornellsurgicalsociety'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36521444D6FB416EADC10023AF3651A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F84E27BD4E1B4C84944BC61008605A70 }}
           package: .
