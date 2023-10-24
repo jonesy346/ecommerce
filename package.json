@@ -1,22 +1,29 @@
 {
-  "name": "ecommerce3",
+  "name": "ecommerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Table of contents * [General info](#general-info) * [Technologies](#technologies) * [Setup](#setup) * [Features](#features) * [Status](#status) * [Acknowledgments](#acknowledgments)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonesy346/ecommerce.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonesy346/ecommerce/issues"
+  },
+  "homepage": "https://github.com/jonesy346/ecommerce#readme",
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "stripe": "^8.137.0"
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "stripe": "^14.1.0"
   },
   "devDependencies": {
-    "dotenv": "^8.2.0",
-    "nodemon": "^2.0.7"
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
   }
 }
