@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up Node.js version
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: '18.x'
 
@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'cornellsurgicalsociety'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CD12DFFA84B479AB5AC2291F561C9B0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE72A7C4849F4B388D0855F3D7DC7D21 }}
           package: .
